@@ -33,9 +33,6 @@ Swiftpay is a dynamic and user-friendly finance website that revolutionizes the 
   <a href="https://babeljs.io/">
     <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel" />
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  </a>
 </p>
 
 
